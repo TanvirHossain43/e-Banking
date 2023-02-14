@@ -4,7 +4,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
 
     const passwordField =document.getElementById('user-password')
     const password =passwordField.value
-    if(email === 'tanvir@gamil.com' && password === 'tanvir'){
+    if(email === 'tanvir@gmail.com' && password === 'tanvir'){
         window.location.href ='bank.html'
     }
     else{
